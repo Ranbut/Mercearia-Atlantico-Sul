@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>labelCacheCleanUpExecuted=true</attributes>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>asd</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>asd</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 02:45:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e019b3952f8f7910a43cdc1a2799b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1259529_gest_o_0">d7938c412fcbf510a43cdc1a2799b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</sys_scope>
+        <sys_update_name>sys_hub_flow_e019b3952f8f7910a43cdc1a2799b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 02:45:30</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_variable_value action="DELETE" query="document_key=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_trigger_instance action="DELETE" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=e019b3952f8f7910a43cdc1a2799b6c6^sys_idNOT INe019b3952f8f7910a43cdc1a2799b6c8"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>e019b3952f8f7910a43cdc1a2799b6c6</id>
+        <name>asd</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 02:45:30</sys_created_on>
+        <sys_id>e019b3952f8f7910a43cdc1a2799b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 02:45:30</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=e019b3952f8f7910a43cdc1a2799b6c8"/>
+    <sys_hub_flow_input action="DELETE" query="model=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_flow_output action="DELETE" query="model=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_action_instance action="DELETE" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_sub_flow_instance action="DELETE" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_flow_logic action="DELETE" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_hub_flow_variable action="DELETE" query="model=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_input_e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_output_e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=e019b3952f8f7910a43cdc1a2799b6c6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</application>
+        <file_path/>
+        <instance_id>58a6cc85dbb83b808aea21c40596196d</instance_id>
+        <instance_name>dev80396</instance_name>
+        <name>sys_hub_flow_e019b3952f8f7910a43cdc1a2799b6c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><attributes>labelCacheCleanUpExecuted=true</attributes><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><internal_name>asd</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>asd</name><natlang/><outputs/><pre_compiled>false</pre_compiled><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 02:45:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e019b3952f8f7910a43cdc1a2799b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>asd</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1259529_gest_o_0">d7938c412fcbf510a43cdc1a2799b6a8</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</sys_scope><sys_update_name>sys_hub_flow_e019b3952f8f7910a43cdc1a2799b6c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 02:45:30</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_variable_value action="delete_multiple" query="document_key=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_trigger_instance action="delete_multiple" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_flow_stage action="delete_multiple" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_flow_cat_variable_model action="delete_multiple" query="id=e019b3952f8f7910a43cdc1a2799b6c6^sys_idNOT INe019b3952f8f7910a43cdc1a2799b6c8"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>e019b3952f8f7910a43cdc1a2799b6c6</id><name>asd</name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 02:45:30</sys_created_on><sys_id>e019b3952f8f7910a43cdc1a2799b6c8</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 02:45:30</sys_updated_on></sys_flow_cat_variable_model><sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=e019b3952f8f7910a43cdc1a2799b6c8"/><sys_hub_flow_input action="delete_multiple" query="model=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_flow_output action="delete_multiple" query="model=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_alias_mapping action="delete_multiple" query="source_id=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_action_instance action="delete_multiple" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_sub_flow_instance action="delete_multiple" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_flow_logic action="delete_multiple" query="flow=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_hub_flow_variable action="delete_multiple" query="model=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_e019b3952f8f7910a43cdc1a2799b6c6"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_e019b3952f8f7910a43cdc1a2799b6c6"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_e019b3952f8f7910a43cdc1a2799b6c6"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_e019b3952f8f7910a43cdc1a2799b6c6"/><sys_flow_trigger_plan action="delete_multiple" query="plan_id=e019b3952f8f7910a43cdc1a2799b6c6"/><sys_flow_subflow_plan action="delete_multiple" query="plan_id=e019b3952f8f7910a43cdc1a2799b6c6"/></record_update>]]></payload>
+        <payload_hash>-1286103366</payload_hash>
+        <record_name>asd</record_name>
+        <reverted_from/>
+        <source>041acbc12f4b3910a43cdc1a2799b6a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 02:45:31</sys_created_on>
+        <sys_id>ac19bb1d2f8f7910a43cdc1a2799b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c56c3f2a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 02:45:31</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>a019bb1dbf8f7910b55b4730e806c049</update_guid>
+        <update_guid_history>a019bb1dbf8f7910b55b4730e806c049:-1286103366</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 07:08:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>1ed26d52e6f24348b4d50954856aae40</sys_id>
+        <sys_metadata>e019b3952f8f7910a43cdc1a2799b6c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>asd</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259529_gest_o_0">d7938c412fcbf510a43cdc1a2799b6a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</sys_scope>
+        <sys_scope_delete display_value="">1b385f1e2ee746a997c163246f142e99</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_e019b3952f8f7910a43cdc1a2799b6c6</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_e019b3952f8f7910a43cdc1a2799b6c6">ac19bb1d2f8f7910a43cdc1a2799b649</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 07:08:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

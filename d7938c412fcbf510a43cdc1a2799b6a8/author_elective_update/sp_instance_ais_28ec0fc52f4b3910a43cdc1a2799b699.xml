@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e70ccf052f4b3910a43cdc1a2799b692</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 04:53:58</sys_created_on>
+        <sys_id>28ec0fc52f4b3910a43cdc1a2799b699</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Olá, posso ajudar?</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259529_gest_o_0">d7938c412fcbf510a43cdc1a2799b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</sys_scope>
+        <sys_update_name>sp_instance_ais_28ec0fc52f4b3910a43cdc1a2799b699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 04:54:35</sys_updated_on>
+        <title>Olá, posso ajudar?</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=28ec0fc52f4b3910a43cdc1a2799b699"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</application>
+        <file_path/>
+        <instance_id>58a6cc85dbb83b808aea21c40596196d</instance_id>
+        <instance_name>dev80396</instance_name>
+        <name>sp_instance_ais_28ec0fc52f4b3910a43cdc1a2799b699</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_ais"&gt;&lt;sp_instance_ais action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;ai_search_source_filter/&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;disable_all_suggestions&gt;false&lt;/disable_all_suggestions&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;placeholder/&gt;&lt;roles/&gt;&lt;search_application/&gt;&lt;search_results_configuration/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e70ccf052f4b3910a43cdc1a2799b692&lt;/sp_column&gt;&lt;sp_widget display_value="Homepage Search"&gt;200fbd96cb20020000f8d856634c9ca1&lt;/sp_widget&gt;&lt;spell_check_font_size&gt;xl&lt;/spell_check_font_size&gt;&lt;sys_class_name&gt;sp_instance_ais&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-10 04:53:58&lt;/sys_created_on&gt;&lt;sys_id&gt;28ec0fc52f4b3910a43cdc1a2799b699&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Olá, posso ajudar?&lt;/sys_name&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1259529_gest_o_0"&gt;d7938c412fcbf510a43cdc1a2799b6a8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;d7938c412fcbf510a43cdc1a2799b6a8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_ais_28ec0fc52f4b3910a43cdc1a2799b699&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-10 04:54:35&lt;/sys_updated_on&gt;&lt;title&gt;Olá, posso ajudar?&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_ais&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=28ec0fc52f4b3910a43cdc1a2799b699"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>44158822</payload_hash>
+        <record_name>Olá, posso ajudar?</record_name>
+        <reverted_from/>
+        <source>041acbc12f4b3910a43cdc1a2799b6a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 04:54:35</sys_created_on>
+        <sys_id>610d43092f4b3910a43cdc1a2799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5213c2a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 04:54:35</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>290d4309b54b391092f72c3a2b3819b2</update_guid>
+        <update_guid_history>290d4309b54b391092f72c3a2b3819b2:44158822,c80d8309744b3910bd4b2acda8b1ce3c:1204650535,64ec0fc5e24b3910a40212da9bca1d9b:373378420</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Olá, posso ajudar?">6404cad12f877910a43cdc1a2799b6d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 18:14:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>1f5b9e6125324c79a899fc80b1d5bac9</sys_id>
+        <sys_metadata>28ec0fc52f4b3910a43cdc1a2799b699</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Olá, posso ajudar?</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259529_gest_o_0">d7938c412fcbf510a43cdc1a2799b6a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">d7938c412fcbf510a43cdc1a2799b6a8</sys_scope>
+        <sys_scope_delete display_value="">1b385f1e2ee746a997c163246f142e99</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_28ec0fc52f4b3910a43cdc1a2799b699</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_28ec0fc52f4b3910a43cdc1a2799b699">610d43092f4b3910a43cdc1a2799b6b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 18:14:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
